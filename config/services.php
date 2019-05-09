@@ -14,15 +14,15 @@ return [
     |
      */
     'facebook'  => [
-        'client_id'     => '1854776957883233',
-        'client_secret' => 'ced13c49efc0f1a076cbde3a79faee41',
-        'redirect'      => 'http://facebooklogin.test/callback/facebook',
+        'client_id'     => '838383333207029',
+        'client_secret' => '5d80649b5005f1ecb7842cd6408f3c3c',
+        'redirect'      => 'https://facebooklogin.test/callback/facebook',
     ],
 
     'github'    => [
         'client_id'     => '5fe60731ed783172cca3',
         'client_secret' => 'a0a37a7c5798aad8c974f9d127a817ad0eedde6d',
-        'redirect'      => 'http://facebooklogin.test/callback/github',
+        'redirect'      => 'https://facebooklogin.test/callback/github',
     ],
 
     'mailgun'   => [
